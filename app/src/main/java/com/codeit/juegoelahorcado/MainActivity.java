@@ -9,20 +9,7 @@ import android.widget.RadioButton;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
-/*
-    Alfaro Gámez	Daniel Antonio	    25-0485-2018
-    Andrés Cruz 	Ismael Ernesto	    25-1198-2018
-    Argueta Sarmiento	Edson Ariel	    25-1132-2018
-    Carranza Mártir	Emmanuel Ernesto	25-3453-2018
-    Claros Ramírez 	Edgar Alonso	    25-1911-2010
-    Cruz Rosales	Erick Alberto	    25-4822-2018
-    Guzmán Escobar 	Luis Antonio	    25-3574-2016
-    Orellana Menjívar 	Oscar Armando	25-1735-2016
-    Osorio Martínez	Cristian Alexander	25-2397-2018
-    Trujillo Reyes 	Kevin Alberto	    25-1418-2017
-    Ventura Deleon	Brian Dagoberto	    25-6115-2016
 
-* */
     EditText edtLetra;
     Button btnVerificar,btnLimpiar;
     TextView tvLetra1, tvLetra2, tvLetra3, tvLetra4, tvAhoracado, tvResultado;
